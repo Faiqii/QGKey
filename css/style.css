@@ -18,7 +18,7 @@ body {
   font-family: "Poppins", sans-serif;
   line-height: 1.8em;
   font-weight: 400;
-  background: #ffffff;
+  background: transparent;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
 }
@@ -180,7 +180,7 @@ li {
   font-family: "Poppins", sans-serif;
 }
 .btn-style-two:hover {
-  background: #ffffff;
+  background: transparent;
   color: #dca664;
 }
 .btn-style-three {
@@ -276,7 +276,7 @@ li {
   width: 100%;
   height: 100%;
   z-index: 999999;
-  background-color: #ffffff;
+  background-color: transparent;
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url(../images/icons/preloader.svg);
@@ -385,7 +385,7 @@ img {
 }
 .fancybox-next:hover span:before,
 .fancybox-prev:hover span:before {
-  background-color: #ffffff !important;
+  background-color: transparent !important;
   color: #000000;
 }
 .fancybox-type-image .fancybox-close {
@@ -746,7 +746,7 @@ img {
   height: 40px;
   color: #000000;
   line-height: 24px;
-  background: #ffffff;
+  background: transparent;
   border: 1px solid #e0e0e0;
   padding: 7px 40px 7px 15px;
   -webkit-transition: all 300ms ease;
@@ -986,7 +986,7 @@ img {
 }
 .main-header .header-upper {
   position: relative;
-  background: #ffffff;
+  background: transparent;
   z-index: 5;
   transition: all 500ms ease;
   -moz-transition: all 500ms ease;
@@ -1071,7 +1071,7 @@ img {
   top: 0px;
   width: 100%;
   padding: 0px 0px;
-  background: #ffffff;
+  background: transparent;
   z-index: 0;
   border-bottom: 1px solid #e0e0e0;
   transition: all 500ms ease;
@@ -1119,10 +1119,10 @@ img {
   padding: 0px 0px;
 }
 .header-style-two .main-box {
-  background-color: #ffffff;
+  background-color: transparent;
 }
 .header-style-two .nav-outer {
-  background-color: #ffffff;
+  background-color: transparent;
   float: right;
   padding-right: 55px;
 }
@@ -1491,7 +1491,7 @@ img {
   padding: 12px 0px;
   margin-bottom: 20px;
   border: 2px solid #e1e1e1;
-  background-color: #ffffff;
+  background-color: transparent;
 }
 .accordion-box .block.active-block {
   border-color: #c08c4d;
@@ -2068,7 +2068,7 @@ img {
   height: 42px;
   color: #989fa5;
   font-size: 15px;
-  background: #ffffff;
+  background: transparent;
   border: 1px solid transparent;
   -webkit-transition: all 500ms ease;
   -ms-transition: all 500ms ease;
@@ -2089,7 +2089,7 @@ img {
   height: 120px;
   font-size: 15px;
   resize: none;
-  background: #ffffff;
+  background: transparent;
   border: 1px solid transparent;
   -webkit-transition: all 500ms ease;
   -ms-transition: all 500ms ease;
@@ -2213,7 +2213,7 @@ img {
 }
 .testimonial-section .owl-nav .owl-prev:hover,
 .testimonial-section .owl-nav .owl-next:hover {
-  background-color: #ffffff;
+  background-color: transparent;
   color: #c08c4d;
 }
 .news-section {
@@ -2300,7 +2300,7 @@ img {
 .news-section .sidebar-news {
   position: relative;
   padding: 40px 28px;
-  background-color: #ffffff;
+  background-color: transparent;
   -webkit-box-shadow: 0px 0px 13px 0px rgba(232, 232, 232, 1);
   -moz-box-shadow: 0px 0px 13px 0px rgba(232, 232, 232, 1);
   box-shadow: 0px 0px 13px 0px rgba(232, 232, 232, 1);
@@ -2417,7 +2417,7 @@ img {
   bottom: 2px;
   width: 85px;
   height: 1px;
-  background-color: #ffffff;
+  background-color: transparent;
 }
 .call-to-action-section h2 {
   position: relative;
@@ -2754,7 +2754,7 @@ img {
   height: 2px;
   width: 40px;
   bottom: 8px;
-  background-color: #ffffff;
+  background-color: transparent;
 }
 .fluid-section-one .content-column .inner-box .column-text {
   position: relative;
@@ -3656,7 +3656,7 @@ img {
   color: #242424;
   font-weight: 500;
   text-align: center;
-  background: #ffffff;
+  background: transparent;
   border-radius: 50%;
   border: 2px solid #c08c4d;
   text-transform: capitalize;
@@ -4029,7 +4029,7 @@ img {
   height: 45px;
   color: #a5a5a5;
   font-size: 15px;
-  background-color: #ffffff;
+  background-color: transparent;
   border: 1px solid #eeeeee;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
@@ -4052,7 +4052,7 @@ img {
   height: 170px;
   font-size: 15px;
   resize: none;
-  background-color: #ffffff;
+  background-color: transparent;
   border: 1px solid #eeeeee;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
@@ -4173,7 +4173,7 @@ img {
   font-size: 17px;
   color: #000000;
   padding: 10px 25px;
-  background: #ffffff;
+  background: transparent;
   border-radius: 5px;
   font-weight: 600;
   -webkit-transition: all 300ms ease;
@@ -5037,13 +5037,13 @@ img {
   bottom: -1px;
   width: 100%;
   height: 1px;
-  background-color: #ffffff;
+  background-color: transparent;
 }
 .shop-single .product-details .prod-tabs .tab-btns .tab-btn:hover,
 .shop-single .product-details .prod-tabs .tab-btns .tab-btn.active-btn {
   color: #242424;
   border-color: #e2e2e2;
-  background: #ffffff;
+  background: transparent;
 }
 .shop-single .product-details .prod-tabs .tabs-content {
   position: relative;
@@ -5252,7 +5252,7 @@ img {
   height: 50px;
   color: #848484;
   font-weight: 300;
-  background: #ffffff;
+  background: transparent;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
   -o-transition: all 300ms ease;
@@ -5277,7 +5277,7 @@ img {
   border: 1px solid #efefef;
   height: 115px;
   font-weight: 300;
-  background: #ffffff;
+  background: transparent;
   resize: none;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
@@ -5355,7 +5355,7 @@ img {
   padding-right: 80px;
 }
 .cart-table tbody tr .qty .quantity-spinner {
-  background: #ffffff;
+  background: transparent;
 }
 .cart-table tbody tr .prod-column .column-box {
   position: relative;
@@ -5483,7 +5483,7 @@ img {
   border: 1px solid #eeeeee;
   width: 130px;
   height: 33px;
-  background: #ffffff;
+  background: transparent;
 }
 .cart-section .coupon-btn {
   padding: 3px 18px 5px;
@@ -5608,7 +5608,7 @@ img {
   position: relative;
   display: block;
   width: 100%;
-  background: #ffffff;
+  background: transparent;
   line-height: 16px;
   padding: 10px 15px;
   height: 38px;
@@ -5632,7 +5632,7 @@ img {
   -ms-appearance: none;
   -moz-appearance: none;
   -o-appearance: none;
-  background: #ffffff url(../images/icons/icon-select.png) right center
+  background: transparent url(../images/icons/icon-select.png) right center
     no-repeat;
   cursor: pointer;
 }
@@ -5894,7 +5894,7 @@ img {
   line-height: 26px;
   padding: 12px 20px;
   font-weight: 400;
-  background-color: #ffffff;
+  background-color: transparent;
   border: 1px solid #d8d8d8;
   transition: all 500ms ease;
   -webkit-transition: all 500ms ease;
